@@ -26,6 +26,7 @@ def checkParkingSpace(imgPro):
             thickness = 5
             spaceCount += 1
         else:
+
             color = (0, 0, 255)
             thickness = 2
 
